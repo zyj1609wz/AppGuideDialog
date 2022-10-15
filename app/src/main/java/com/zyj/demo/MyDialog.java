@@ -10,6 +10,8 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.FragmentManager;
 
+import com.yanjun.myapplication.R;
+
 /**
  * @Description:
  * @author: zhaoyj

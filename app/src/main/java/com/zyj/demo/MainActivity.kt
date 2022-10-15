@@ -2,8 +2,7 @@ package com.zyj.demo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.zyj.demo.databinding.ActivityMainBinding
-
+import com.yanjun.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
