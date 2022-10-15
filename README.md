@@ -4,6 +4,6 @@
 
 效果图：
 
-![](/image/WechatIMG139.png)
+![效果图](./image/WechatIMG139.png)
 
 
